@@ -109,7 +109,7 @@ fournir une réponse produite par une IA comme si elle venait du groupe
 ?? Règle importante
 L'équipe reste responsable de toutes les décisions prises dans le projet.
 
-6. Organisation Scrum
+## 6. Organisation Scrum
 Groupes de 3 - 4 élèves
 Rôles :
 Product Owner
@@ -120,7 +120,7 @@ Sprint Planning
 Sprint Review
 Sprint Rétrospective
 
-7. Livrables attendus – Sprint 1
+## 7. Livrables attendus – Sprint 1
 Application AppSheet fonctionnelle
 Product Backlog Sprint 1
 Démonstration de l'application
