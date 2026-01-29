@@ -79,7 +79,7 @@ consulter la liste des entrées
 accéder au détail d'une entrée
 filtrer par date
 
-##5. Contraintes techniques et pédagogiques
+## 5. Contraintes techniques et pédagogiques
 
 5. 1 AppSheet
 L'application doit être créée entièrement depuis zéro
